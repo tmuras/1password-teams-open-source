@@ -1110,3 +1110,7 @@ https://coinworks.club/
 ### Quanto Chevron
 A simple toolkit to act as a GPG/PGP Manager/Create/Sign/Verify/Encrypt/Decrypt deamon, to use GPG/PGP as a service over HTTP.
 https://github.com/quan-to/chevron | https://quan.to
+
+### moosh
+MOOdle SHell. It is a commandline tool that will allow you to perform most common Moodle tasks.
+https://moosh-online.com
